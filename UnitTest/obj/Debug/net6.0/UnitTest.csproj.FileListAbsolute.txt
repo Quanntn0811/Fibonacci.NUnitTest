@@ -1,0 +1,5 @@
+C:\Users\Hieu-Acer\Desktop\Summer 2023\SWT301\UnitTest\UnitTest\obj\Debug\net6.0\UnitTest.csproj.AssemblyReference.cache
+C:\Users\Hieu-Acer\Desktop\Summer 2023\SWT301\UnitTest\UnitTest\obj\Debug\net6.0\UnitTest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hieu-Acer\Desktop\Summer 2023\SWT301\UnitTest\UnitTest\obj\Debug\net6.0\UnitTest.AssemblyInfoInputs.cache
+C:\Users\Hieu-Acer\Desktop\Summer 2023\SWT301\UnitTest\UnitTest\obj\Debug\net6.0\UnitTest.AssemblyInfo.cs
+C:\Users\Hieu-Acer\Desktop\Summer 2023\SWT301\UnitTest\UnitTest\obj\Debug\net6.0\UnitTest.csproj.CoreCompileInputs.cache
